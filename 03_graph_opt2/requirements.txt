@@ -1,0 +1,4 @@
+igraph==1.0.0
+numpy
+pyscf
+pytest

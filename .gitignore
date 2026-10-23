@@ -1,0 +1,23 @@
+# Generated data
+*.json
+
+# Ignore nested README files, but keep root README files
+**/[Rr][Ee][Aa][Dd][Mm][Ee]
+**/[Rr][Ee][Aa][Dd][Mm][Ee].*
+!/[Rr][Ee][Aa][Dd][Mm][Ee]
+!/[Rr][Ee][Aa][Dd][Mm][Ee].*
+
+# Python caches and bytecode
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
